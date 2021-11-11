@@ -1,0 +1,27 @@
+Add creation of a puzzle
+handle in config file enumeration constraints
+anayze number of guesses in a solution[not so easy to do, but possible]
+option to search between all solutions and only first appropriate
+
+NICE TO HAVE:
+beautifull UI
+parallel processing
+client server applications
+cloud based mining
+Other spaces than INTEGER
+...
+GLOBAL CONSTRAINTS OPTIMALIZATION
+CONSTRAINTS PRIORITIES
+EVOLUTIONARY AND GENETIC ALGORITHMS
+LINEAR PROGRAMMING OF A SOLUTION
+AI SOLVING
+MEMORY OPTIMALIZATIONS AND GLOBAL SYNCs
+
+REAL WORLD 2 SUDOKU
+INTERPETATION OF A RESULTS
+
+SUDOKU MULTIPLAYER - realtime turn bassed mmorpg PVE later PVP strategy game
+SUDOKU MULTIPLAYER ANALYZES
+SUDOKU MULTIPLAYER 2 - PVE ONLY
+SUDOKU MULTIPLAYER 2 - MINIGAMES BUNDLE
+SUDOKU MULTIPLAYER 3 - The final edition of obfuscation 
