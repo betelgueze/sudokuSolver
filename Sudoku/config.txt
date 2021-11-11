@@ -1,0 +1,10 @@
+forbidden
+
+unique 0 - 2
+unique 3 - 5
+unique 6 - 8
+
+unique 0 step 3 times 3
+unique 1 step 3 times 3
+unique 2 step 3 times 3 
+

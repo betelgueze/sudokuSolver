@@ -1,0 +1,20 @@
+forbidden
+unique 0 - 6
+unique 7 - 13
+unique 14 - 20
+unique 21 - 27
+unique 28 - 34
+unique 35 - 41
+unique 42 - 49
+unique 0 step 7
+unique 1 step 7
+unique 2 step 7
+unique 3 step 7
+unique 4 step 7
+unique 5 step 7
+unique 6 step 7
+unique 0 1 2 3 7 8 9 10 14 15 16 17
+unique 4 5 6 11 12 13 18 19 20
+unique 21 22 23 24 28 29 30 31
+unique 26 27 33 34 40 41 47 48
+unique 35 36 37 38 42 43 44 45
